@@ -1,6 +1,6 @@
-<h2 align="center">
-Syndicate HQ</h2>
+<h1 align="center">
+Syndicate HQ</h1>
 
-<p align="center">
+<div align="center">
 SyndicateHQ is an organization that focuses on building micro-saas applications with a focus on delivering high-quality products and services.
-</p>
+</div>
