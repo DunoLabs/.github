@@ -1,6 +1,7 @@
 <h1 align="center">
-Syndicate HQ</h1>
+DunoLabs</h1>
 
 <div align="center">
-SyndicateHQ is an organization that focuses on building micro-saas applications with better user experience and security.
+DunoLabs creates micro-saas products for businesses and individuals, 
+We are a team of developers, designers, and marketers enthusiastic about building the best products possible. 
 </div>
