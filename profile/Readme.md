@@ -31,5 +31,5 @@ Here you'll find some quick links that will get you started: [About DunoLabs](ht
 ---
 You can use Github issues to report bugs, request features, and discuss changes on the respective projects if you are a developer. Issues are a good way to communicate with the project maintainers.
 
-As a user you can contact us at [dunolabs@gmail.com](mailto:dunolabs@gmail.com) or you can use the [dunolabs.in](dunolabs.in) website to connect with us.
+As a user you can contact us at [dunolabs@gmail.com](mailto:dunolabs@gmail.com) or you can use the [dunolabs.com](https://dunolabs.com) website to connect with us.
  
